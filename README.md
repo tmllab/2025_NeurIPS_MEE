@@ -1,5 +1,5 @@
 <h2 align="center">Enhancing Sample Selection Against Label Noise <br> by Cutting Mislabeled Easy Examples</h2>
-<p align="center"><b>NeurIPS 2025</b> | <a href="https://openreview.net/pdf?id=OfIUAlo2hJ">[Paper]</a>
+<p align="center"><b>NeurIPS 2025 Poster</b> | <a href="https://openreview.net/pdf?id=OfIUAlo2hJ">[Paper]</a>
 <p align="center"> <a href="https://suqinyuan.github.io">Suqin Yuan</a>, <a href="https://lfeng1995.github.io">Lei Feng</a>, <a href="https://bhanml.github.io">Bo Han</a>, <a href="https://tongliang-liu.github.io">Tongliang Liu</a> </p>
 
 Contact: Suqin Yuan (suqinyuan.cs@gmail.com).
